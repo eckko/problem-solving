@@ -9,6 +9,11 @@
       "folder": "the-art-and-craft-of-problem-solving",
       "id": "sample-book",
       "title": "Sample Book"
+    },
+    {
+      "folder": "thinking-in-systems",
+      "id": "thinking-in-systems",
+      "title": "Thinking in Systems"
     }
   ]
 }
