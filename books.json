@@ -16,6 +16,11 @@
       "title": "Sample Book"
     },
     {
+      "folder": "superforecasting",
+      "id": "superforecasting",
+      "title": "Superforecasting: The Art and Science of Prediction"
+    },
+    {
       "folder": "thinking-in-systems",
       "id": "thinking-in-systems",
       "title": "Thinking in Systems"
