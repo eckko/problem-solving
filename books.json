@@ -11,14 +11,14 @@
       "title": "Human Problem Solving"
     },
     {
-      "folder": "the-art-and-craft-of-problem-solving",
-      "id": "sample-book",
-      "title": "Sample Book"
-    },
-    {
       "folder": "superforecasting",
       "id": "superforecasting",
       "title": "Superforecasting: The Art and Science of Prediction"
+    },
+    {
+      "folder": "the-art-and-craft-of-problem-solving",
+      "id": "the-art-and-craft-of-problem-solving",
+      "title": "The Art and Craft of Problem Solving"
     },
     {
       "folder": "thinking-in-systems",
