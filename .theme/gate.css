@@ -1,0 +1,22 @@
+/*
+ * Problem Solving: sign-in screen "Maze" (mint paper, circular maze with one orange route).
+ * Loaded by the subject-site-template UI (2.x) after its own css/hub.css,
+ * named in subject.json "theme". Only variables and the art area are set;
+ * the url() is relative to this file. No book content here.
+ */
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+:root {
+  --gate-bg: #e7f3ec;
+  --gate-fg: #10302a;
+  --gate-muted: #3c5a52;
+  --gate-button-bg: #10302a;
+  --gate-button-fg: #e7f3ec;
+  --gate-heading-font: "DM Serif Display", Georgia, "Times New Roman", serif;
+  --gate-focus: #e8590c;
+}
+
+#gate .gate-art {
+  min-height: 42vh;
+  background: url("maze.svg") center / contain no-repeat;
+}

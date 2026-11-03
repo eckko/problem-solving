@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 440" preserveAspectRatio="xMidYMid slice">
+  <g fill="none" stroke="#10302a" stroke-width="4" stroke-linecap="round">
+    <circle cx="195" cy="220" r="180" stroke-dasharray="1055.6 75.4" transform="rotate(288 195 220)"/>
+    <circle cx="195" cy="220" r="145" stroke-dasharray="850.4 60.7" transform="rotate(28 195 220)"/>
+    <circle cx="195" cy="220" r="110" stroke-dasharray="645.1 46.1" transform="rotate(188 195 220)"/>
+    <circle cx="195" cy="220" r="75" stroke-dasharray="439.8 31.4" transform="rotate(318 195 220)"/>
+    <circle cx="195" cy="220" r="40" stroke-dasharray="234.6 16.8" transform="rotate(108 195 220)"/>
+  </g>
+  <path d="M295 47 L276 80 A162 162 0 0 1 319 324 L293 302 A127.5 127.5 0 0 1 75 176 L108 188 A92.5 92.5 0 0 1 275 174 L245 191 A57.5 57.5 0 0 1 166 270 L195 220" fill="none" stroke="#e8590c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 9"/>
+  <circle cx="195" cy="220" r="11" fill="#e8590c" stroke="#e7f3ec" stroke-width="3"/>
+</svg>
